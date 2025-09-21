@@ -83,15 +83,15 @@ Some example screenshots of execution:
 
 ## 🎥 Demo Videos
 
-- [📺 Code Walkthrough](media/01_Code_Walkthrough.mp4)  
-- [▶ Execution Demo](media/02_Execution_Demo.mp4)  
+- [📺 Code Walkthrough (Download)](media/01_Code_Walkthrough.mp4)  
+- [▶ Execution Demo (Download)](media/02_Execution_Demo.mp4)  
 
 ---
 
 ## 📄 Documentation
 
-- [📄 Word Documentation](docs/MyString_Project_Documentation.docx)  
-- [📕 PDF Documentation](docs/MyString_Project_Documentation.pdf)  
+- [📄 Word Documentation (Download)](docs/MyString_Project_Documentation.docx)  
+- [📕 PDF Documentation (Download)](docs/MyString_Project_Documentation.pdf)  
 
 
 ---
