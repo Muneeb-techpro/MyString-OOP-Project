@@ -83,8 +83,8 @@ Some example screenshots of execution:
 
 ## 🎥 Demo Videos
 
-- [📺 Code Walkthrough (Download)](media/01_Code_Walkthrough.mp4)  
-- [▶ Execution Demo (Download)](media/02_Execution_Demo.mp4)  
+- [📺 Code Walkthrough ⬇️](media/01_Code_Walkthrough.mp4)  
+- [▶ Execution Demo ⬇️](media/02_Execution_Demo.mp4)  
 
 ---
 
