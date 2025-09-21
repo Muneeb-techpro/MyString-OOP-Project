@@ -90,8 +90,8 @@ Some example screenshots of execution:
 
 ## 📄 Documentation
 
-- [📄 Word Documentation (Download)](docs/MyString_Project_Documentation.docx)  
-- [📕 PDF Documentation (Download)](docs/MyString_Project_Documentation.pdf)  
+- [📄 Word Documentation ⬇️](docs/MyString_Project_Documentation.docx)  
+- [📕 PDF Documentation ⬇️](docs/MyString_Project_Documentation.pdf)  
 
 
 ---
