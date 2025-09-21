@@ -30,11 +30,11 @@ MyString-OOP-Project/
 │   └── MyString.h
 │
 │── output/                # Screenshots of program output
-│   ├── Output1_BasicConstructors.png
-│   ├── Output2_StringOperations.png
-│   ├── Output3_OperatorOverloading.png
-│   ├── Output4_FileHandling.png
-│   └── Output5_FinalExecution.png
+│   ├── Output1_BasicConstructors.PNG
+│   ├── Output2_StringOperations.PNG
+│   ├── Output3_OperatorOverloading.PNG
+│   ├── Output4_FileHandling.PNG
+│   └── Output5_FinalExecution.PNG
 │
 │── media/                 # Project demo videos
 │   ├── 01_Code_Walkthrough.mp4
@@ -63,19 +63,19 @@ MyString-OOP-Project/
 Some example screenshots of execution:  
 
 **Figure 1: Basic Constructors**  
-![Output1](output/Output1_BasicConstructors.png)  
+![Output1](output/Output1_BasicConstructors.PNG)  
 
 **Figure 2: String Operations (append, slicing, insert)**  
-![Output2](output/Output2_StringOperations.png)  
+![Output2](output/Output2_StringOperations.PNG)  
 
 **Figure 3: Operator Overloading**  
-![Output3](output/Output3_OperatorOverloading.png)  
+![Output3](output/Output3_OperatorOverloading.PNG)  
 
 **Figure 4: File Handling Demonstration**  
-![Output4](output/Output4_FileHandling.png)  
+![Output4](output/Output4_FileHandling.PNG)  
 
 **Figure 5: Final Execution**  
-![Output5](output/Output5_FinalExecution.png)  
+![Output5](output/Output5_FinalExecution.PNG)  
 
 (See all screenshots in the `output/` folder.)
 
